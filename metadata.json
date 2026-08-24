@@ -1,0 +1,6 @@
+{
+  "name": "PeerMate",
+  "description": "PeerMate - Real-time English speaking practice app with 1-to-1 human calls, AI English tutor, vocabulary learning, leagues, and progress tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
